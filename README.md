@@ -51,13 +51,13 @@
 
 ## 📫 Contact Me
 - 📧 Email: truongduy635@gmail.com  
-- 🌐 Facebook: https://facebook.com/ntd.nqk12t1.fitus  
+- 🌐 Facebook: https://www.facebook.com/ntd.nqdk12t1.fitus
 - 💼 LinkedIn: https://linkedin.com/in/ntd5  
 
 ---
 
 ## 📊 GitHub Stats
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtyud5&show_icons=true)
 
 ---
 

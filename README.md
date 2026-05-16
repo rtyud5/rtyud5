@@ -1,6 +1,6 @@
 # Hi, I'm Duy
 
-Information Systems student based in Ho Chi Minh City. I enjoy turning business requirements into structured, data-driven systems — from database design and system analysis to full-stack implementation.
+Information Systems student (High-Quality Program) at University of Science, Vietnam National University Ho Chi Minh City ([![HCMUS](https://img.shields.io/badge/HCMUS-University%20of%20Science-003087?style=flat)](https://hcmus.edu.vn)). I enjoy turning business requirements into structured, data-driven systems — from database design and system analysis to full-stack implementation.
 
 ---
 
@@ -151,37 +151,20 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ---
 
-### Wumpus World Game
+### 🎮 Algorithmic Game Projects — Wumpus World & Rush Hour
 
-> AI simulation where users pick different solving algorithms to navigate a grid-based environment.
+> Two AI-powered puzzle games where users select solving algorithms and watch the system generate solutions step by step. Wumpus World simulates a logic-based grid environment; Rush Hour solves traffic jam puzzles via state-space search.
 
-**My Role:** Solo algorithmic project.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
-
-**What I learned:**
-- Implementing AI-based environment simulation with multiple algorithm options
-- Applying logic-based problem solving in a game interaction context
-- Building interactive visualizations with Pygame
-
----
-
-### Rush Hour — Traffic Jam Solver
-
-> Puzzle-solving game where users select an algorithm and the system generates a step-by-step solution path.
-
-**My Role:** Solo algorithmic project.
+**My Role:** Team of 4 per project — focused on algorithm logic and game mechanics, built demo UI before integrating Pygame graphics, assisted with UI adjustments.
 
 **Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
 
 **What I learned:**
-- Applying state-space search algorithms to a real puzzle problem
-- Visualizing algorithm behavior step-by-step for better understanding
-- Comparing algorithm performance across different puzzle configurations
+- Implementing and comparing multiple solving algorithms (logic-based and state-space search)
+- Building demo UIs as a foundation before full Pygame graphics integration
+- Translating algorithmic logic into interactive, visual game experiences
 
 ---
 

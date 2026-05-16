@@ -1,4 +1,4 @@
-# Hi, I'm Duy 👋
+# Hi, I'm Duy
 
 Information Systems student based in Ho Chi Minh City. I enjoy turning business requirements into structured, data-driven systems — from database design and system analysis to full-stack implementation.
 
@@ -6,14 +6,14 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ## What I Focus On
 
-- 🔍 **System Analysis** — Requirements, workflows, use cases, documentation
-- 🗄️ **Database Design** — ERD, schema, normalization, relational modeling
-- 🔐 **Application Design** — Role-based access, auth flows, business logic
-- 📊 **Data & Reporting** — Data cleaning, dashboard-oriented thinking
+- **System Analysis** — Requirements, workflows, use cases, documentation
+- **Database Design** — ERD, schema, normalization, relational modeling
+- **Application Design** — Role-based access, auth flows, business logic
+- **Data & Reporting** — Data cleaning, dashboard-oriented thinking
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -22,6 +22,7 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -69,9 +70,9 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏠 DormStay — Dormitory Booking System
+### DormStay — Dormitory Booking System
 
 > Room and bed reservation platform supporting complex business workflows and multiple user roles.
 
@@ -91,7 +92,7 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ---
 
-### 🔨 Auto Auction Website
+### Auto Auction Website
 
 > Online auction platform with real-time bidding, auction lifecycle management, and admin controls.
 
@@ -110,7 +111,7 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ---
 
-### 🎓 UniHub — University Event Management
+### UniHub — University Event Management
 
 > Cross-platform system for event registration, admin management, and staff check-in via mobile.
 
@@ -131,7 +132,7 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ---
 
-### 📱 FitTracker — Fitness Tracking App
+### FitTracker — Fitness Tracking App
 
 > Mobile app for managing health profiles, weight progress, and nutrition data.
 
@@ -150,7 +151,7 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ---
 
-### 🧠 Wumpus World Game
+### Wumpus World Game
 
 > AI simulation where users pick different solving algorithms to navigate a grid-based environment.
 
@@ -167,7 +168,7 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ---
 
-### 🚗 Rush Hour — Traffic Jam Solver
+### Rush Hour — Traffic Jam Solver
 
 > Puzzle-solving game where users select an algorithm and the system generates a step-by-step solution path.
 

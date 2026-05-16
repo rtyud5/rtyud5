@@ -1,285 +1,141 @@
-# Hi, I'm Nguyen Truong Duy
+# Hi, I'm Duy 👋
 
-I'm an Information Systems student who enjoys turning business needs into structured, data-driven systems.  
-My main interests are **database systems**, **system analysis**, **data analysis**, and practical software development, with a growing interest in **cybersecurity fundamentals**.
-
-I like working at the intersection of **requirements, system design, data, and secure application workflows** — where ideas become systems that are clear, usable, and maintainable.
+Information Systems student based in Ho Chi Minh City. I enjoy turning business requirements into structured, data-driven systems — from database design and system analysis to full-stack implementation.
 
 ---
 
-## About Me
+## 🧠 What I Focus On
 
-- Information Systems student based in Ho Chi Minh City, Vietnam
-- Strong focus on system analysis, database design, and data-driven applications
-- Interested in designing workflows, permissions, and structured business logic
-- Currently strengthening my foundation in database systems, data analysis, and cybersecurity fundamentals
-- Comfortable working with documentation, diagrams, database schemas, and full project workflows
-
----
-
-## Core Strengths
-
-- **System Analysis:** requirements analysis, business workflow modeling, use cases, documentation
-- **Database Design:** ERD, schema design, normalization, relational data modeling
-- **Application Design:** role-based workflows, authentication, authorization, feature planning
-- **Data Handling:** data cleaning, reporting, dashboard-oriented thinking
-- **Collaboration:** Git/GitHub workflow, team-based development, project documentation
+| | Area | Description |
+|---|---|---|
+| 🔍 | **System Analysis** | Requirements, workflows, use cases, documentation |
+| 🗄️ | **Database Design** | ERD, schema, normalization, relational modeling |
+| 🔐 | **Application Design** | Role-based access, auth flows, business logic |
+| 📊 | **Data & Reporting** | Data cleaning, dashboard-oriented thinking |
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### Database, Tools & Platforms
+**Backend & Database**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Auto Auction Website
+### 🏠 DormStay — Dormitory Booking System
 
-An online auction platform with product listing, bidding, auction status management, role-based permissions, image upload, and transaction history.
+> Room and bed reservation platform supporting complex business workflows and multiple user roles.
 
-**My role:** Team lead and full-stack contributor in a 4-member team.  
-I contributed around **50% of the codebase**, covering frontend, backend, database, testing, and feature integration.
+**🎯 My Role:** Full-stack contributor — database design, role/permission design, booking logic, frontend UI, backend structure, and deployment.
 
-**Key features:**
+**⚙️ Tech Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-- User registration and login
-- Product listing and auction creation
-- Bidding system
-- Auction countdown and status management
-- Winner selection
-- Admin dashboard
-- Role-based permissions
-- Image upload with Cloudinary
-- Search and filter products
-- Transaction history
-- Testing and bug fixing
-
-**Tech highlights:**
-
-- JavaScript
-- Tailwind CSS
-- ORM-based backend with model-driven database mapping
-- Railway
-- Cloudinary
-
-**What I learned:**
-
-- Designing full auction workflows from user interaction to backend logic
-- Handling bidding logic and auction status transitions
-- Leading development tasks in a small team
-- Building and testing a complete web-based system
+**💡 What I learned:**
+- Designing multi-role systems (Guest → Customer → Sales → Accounting → Manager) with layered permissions
+- Translating real business rules into database constraints and application logic
+- Building an end-to-end booking flow with VietQR payment integration
 
 ---
 
-### DormStay
+### 🔨 Auto Auction Website
 
-A dormitory accommodation booking system that supports room and bed reservation, complex business workflows, and multiple user roles.
+> Online auction platform with real-time bidding, auction lifecycle management, and admin controls.
 
-**Roles in the system:**
+**🎯 My Role:** Team lead and full-stack contributor (~50% of codebase) in a 4-member team — covering frontend, backend, database, and feature integration.
 
-- Guest
-- Customer
-- Sales
-- Accounting
-- Manager, including admin-level permissions
+**⚙️ Tech Stack:**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-**My contributions:**
-
-- Database design
-- Role and permission design
-- Room/bed booking logic
-- Business workflow design
-- Frontend UI
-- Backend structure
-- Deployment
-
-**Key features:**
-
-- Room and bed booking flow
-- Multi-role workflow
-- User-friendly interface
-- Payment flow with VietQR
-- Business rules for accommodation management
-- Full system deployment
-
-**Tech stack:**
-
-- React
-- Vite
-- Tailwind CSS
-- Supabase
-- Render
-- Vercel
-- VietQR
-
-**Project focus:**
-
-DormStay is one of my strongest projects because it combines real business logic, database complexity, role-based workflows, and a practical booking experience.
+**💡 What I learned:**
+- Designing auction workflows: bidding logic, status transitions, and winner selection
+- Leading a small dev team and coordinating feature integration across members
+- Building and testing a complete web system from scratch
 
 ---
 
-### UniHub
+### 🎓 UniHub — University Event Management
 
-A university event management system combining web and mobile workflows.  
-Students can register for events, admins manage events, and staff use a mobile app for check-in.
+> Cross-platform system for event registration, admin management, and staff check-in via mobile.
 
-**Team structure:** 3 members, divided into API, web, and mobile.  
-**My role:** Owned the full web application.
+**🎯 My Role:** Owned the full web application in a 3-member team (API / web / mobile split).
 
-**System roles:**
+**⚙️ Tech Stack:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- Student: event registration and mock payment
-- Admin: create, update, and close events
-- Staff: mobile check-in using Expo Go
-
-**Web features I worked on:**
-
-- Student event browsing
-- Event registration
-- Mock payment flow
-- Admin event creation
-- Admin event editing
-- Event closing workflow
-- Workshop detail pages
-- AI-powered PDF summary interface using Gemini API
-- Responsive UI
-
-**Tech stack:**
-
-- TypeScript
-- React
-- Vite
-- Prisma
-- Redis
-- Docker
-- Expo Go
-- Gemini API
-
-**Project focus:**
-
-UniHub helped me improve my frontend ownership, clean code mindset, and understanding of how separate API, web, and mobile modules work together in one system.
+**💡 What I learned:**
+- Taking full ownership of a web module within a multi-team architecture
+- Integrating Gemini API to build an AI-powered PDF summary feature
+- Understanding how API, web, and mobile modules interact in one unified system
 
 ---
 
-### FitTracker App
+### 📱 FitTracker — Fitness Tracking App
 
-A beginner-friendly fitness tracking mobile app for managing health, profile information, weight progress, and nutrition-related data.
+> Mobile app for managing health profiles, weight progress, and nutrition data.
 
-**Team size:** 4 members  
-**My role:** Business Analyst and profile module contributor
+**🎯 My Role:** Business Analyst + profile module developer in a 4-member team.
 
-**My responsibilities:**
+**⚙️ Tech Stack:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-- Full project documentation
-- Requirements analysis
-- Use case diagram
-- Activity diagram
-- Sequence diagram
-- Class diagram
-- ERD / database design
-- UI flow
-- Test cases
-- Final project report
-- Profile page implementation
-
-**Profile module features:**
-
-- User settings
-- Edit profile information
-- Weight chart
-- Nutrition tracking UI
-
-**Tech stack:**
-
-- Flutter
-- Firebase
-
-**Project focus:**
-
-FitTracker was my first mobile project. Although it was not perfect, it helped me understand real project workflows, teamwork, documentation, and the role of a Business Analyst in a software development project.
+**💡 What I learned:**
+- Running a full BA workflow: requirements → use cases → diagrams → ERD → test cases → final report
+- Understanding how structured documentation supports development in a team setting
+- First hands-on experience with mobile development and Firebase
 
 ---
 
-## Additional Algorithmic Projects
-
-### Wumpus World Game
-
-A Wumpus World simulation where users can choose different solving algorithms to navigate the map.
-
-**Focus:**
-
-- AI-based environment simulation
-- Algorithm selection
-- Problem-solving logic
-- Game interaction using Pygame
-
----
-
-### Rush Hour Game - Traffic Jam Solver
-
-A puzzle-solving project where users can select solving algorithms and let the system generate a solution path.
-
-**Focus:**
-
-- Algorithm-based puzzle solving
-- State exploration
-- Interactive solver behavior
-- Pygame-based implementation
-
----
-
-## What I Care About
-
-I enjoy building systems that are not only functional, but also structured and understandable.
-
-I care about:
-
-- Clear requirements
-- Well-designed databases
-- Practical workflows
-- Role-based access and permissions
-- Maintainable project structure
-- Systems that solve real problems
-
----
-
-## Contact
-
-- Email: truongduy635@gmail.com
-- Facebook: https://www.facebook.com/ntd.nqdk12t1.fitus
-- LinkedIn: https://linkedin.com/in/ntd5
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtyud5&show_icons=true)
 
 ---
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-truongduy635@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:truongduy635@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ntd5-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntd5)
+[![Facebook](https://img.shields.io/badge/Facebook-Nguyen%20Truong%20Duy-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ntd.nqdk12t1.fitus)

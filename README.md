@@ -1,6 +1,6 @@
 # Hi, I'm Duy
 
-Information Systems student (High-Quality Program) at University of Science, Vietnam National University Ho Chi Minh City [![HCMUS](https://img.shields.io/badge/HCMUS-University%20of%20Science-003087?style=flat)](https://hcmus.edu.vn). I enjoy turning business requirements into structured, data-driven systems — from database design and system analysis to full-stack implementation.
+[![HCMUS](https://img.shields.io/badge/HCMUS-Information%20Systems%20%7C%20High--Quality%20Program-003087?style=flat)](https://hcmus.edu.vn) (High-Quality Program) at University of Science, Vietnam National University Ho Chi Minh City [![HCMUS](https://img.shields.io/badge/HCMUS-University%20of%20Science-003087?style=flat)](https://hcmus.edu.vn). I enjoy turning business requirements into structured, data-driven systems — from database design and system analysis to full-stack implementation.
 
 ---
 

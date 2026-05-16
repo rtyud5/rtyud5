@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -50,6 +51,8 @@
 ![VMware Studio](https://img.shields.io/badge/VMware_Studio-607078?style=flat&logo=vmware&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Stitch](https://img.shields.io/badge/Stitch-4285F4?style=flat&logo=google&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6D00?style=flat&logo=autodesk&logoColor=white)
 
 ---
 

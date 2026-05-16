@@ -60,7 +60,7 @@ I like working at the intersection of **requirements, system design, data, and s
 
 ## Featured Projects
 
-### Online Auction Website
+### Auto Auction Website
 
 An online auction platform with product listing, bidding, auction status management, role-based permissions, image upload, and transaction history.
 
@@ -229,7 +229,7 @@ FitTracker was my first mobile project. Although it was not perfect, it helped m
 
 ## Additional Algorithmic Projects
 
-### Wumpus Game
+### Wumpus World Game
 
 A Wumpus World simulation where users can choose different solving algorithms to navigate the map.
 
@@ -242,7 +242,7 @@ A Wumpus World simulation where users can choose different solving algorithms to
 
 ---
 
-### Traffic Jam Solver
+### Rush Hour Game - Traffic Jam Solver
 
 A puzzle-solving project where users can select solving algorithms and let the system generate a solution path.
 

@@ -4,15 +4,6 @@
 
 ---
 
-## What I Focus On
-
-- **System Analysis** — Requirements, workflows, use cases, documentation
-- **Database Design** — ERD, schema, normalization, relational modeling
-- **Application Design** — Role-based access, auth flows, business logic
-- **Data & Reporting** — Data cleaning, dashboard-oriented thinking
-
----
-
 ## Tech Stack
 
 **Languages**

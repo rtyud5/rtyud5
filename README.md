@@ -151,7 +151,7 @@ Information Systems student (High-Quality Program) at University of Science, Vie
 
 ---
 
-### 🎮 Algorithmic Game Projects — Wumpus World & Rush Hour
+### Algorithmic Game Projects — Wumpus World & Rush Hour
 
 > Two AI-powered puzzle games where users select solving algorithms and watch the system generate solutions step by step. Wumpus World simulates a logic-based grid environment; Rush Hour solves traffic jam puzzles via state-space search.
 

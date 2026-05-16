@@ -4,14 +4,12 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 ---
 
-## 🧠 What I Focus On
+## What I Focus On
 
-| | Area | Description |
-|---|---|---|
-| 🔍 | **System Analysis** | Requirements, workflows, use cases, documentation |
-| 🗄️ | **Database Design** | ERD, schema, normalization, relational modeling |
-| 🔐 | **Application Design** | Role-based access, auth flows, business logic |
-| 📊 | **Data & Reporting** | Data cleaning, dashboard-oriented thinking |
+- 🔍 **System Analysis** — Requirements, workflows, use cases, documentation
+- 🗄️ **Database Design** — ERD, schema, normalization, relational modeling
+- 🔐 **Application Design** — Role-based access, auth flows, business logic
+- 📊 **Data & Reporting** — Data cleaning, dashboard-oriented thinking
 
 ---
 
@@ -43,11 +41,31 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 **Tools & Platforms**
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-gray?style=flat)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-gray?style=flat)
+![VMware Studio](https://img.shields.io/badge/VMware_Studio-607078?style=flat&logo=vmware&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-4285F4?style=flat&logo=google&logoColor=white)
+
+
+**AI Assistants**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white)
 
 ---
 
@@ -57,15 +75,16 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 > Room and bed reservation platform supporting complex business workflows and multiple user roles.
 
-**🎯 My Role:** Full-stack contributor — database design, role/permission design, booking logic, frontend UI, backend structure, and deployment.
+**My Role:** Full-stack contributor — database design, role/permission design, booking logic, frontend UI, backend structure, and deployment.
 
-**⚙️ Tech Stack:**
+**Tech Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
-**💡 What I learned:**
+**What I learned:**
 - Designing multi-role systems (Guest → Customer → Sales → Accounting → Manager) with layered permissions
 - Translating real business rules into database constraints and application logic
 - Building an end-to-end booking flow with VietQR payment integration
@@ -76,15 +95,15 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 > Online auction platform with real-time bidding, auction lifecycle management, and admin controls.
 
-**🎯 My Role:** Team lead and full-stack contributor (~50% of codebase) in a 4-member team — covering frontend, backend, database, and feature integration.
+**My Role:** Team lead and full-stack contributor (~50% of codebase) in a 4-member team — covering frontend, backend, database, and feature integration.
 
-**⚙️ Tech Stack:**
+**Tech Stack:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-**💡 What I learned:**
+**What I learned:**
 - Designing auction workflows: bidding logic, status transitions, and winner selection
 - Leading a small dev team and coordinating feature integration across members
 - Building and testing a complete web system from scratch
@@ -95,16 +114,17 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 > Cross-platform system for event registration, admin management, and staff check-in via mobile.
 
-**🎯 My Role:** Owned the full web application in a 3-member team (API / web / mobile split).
+**My Role:** Owned the full web application in a 3-member team (API / web / mobile split).
 
-**⚙️ Tech Stack:**
+**Tech Stack:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
-**💡 What I learned:**
+**What I learned:**
 - Taking full ownership of a web module within a multi-team architecture
 - Integrating Gemini API to build an AI-powered PDF summary feature
 - Understanding how API, web, and mobile modules interact in one unified system
@@ -115,26 +135,64 @@ Information Systems student based in Ho Chi Minh City. I enjoy turning business 
 
 > Mobile app for managing health profiles, weight progress, and nutrition data.
 
-**🎯 My Role:** Business Analyst + profile module developer in a 4-member team.
+**My Role:** Business Analyst + profile module developer in a 4-member team.
 
-**⚙️ Tech Stack:**
+**Tech Stack:**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
-**💡 What I learned:**
+**What I learned:**
 - Running a full BA workflow: requirements → use cases → diagrams → ERD → test cases → final report
 - Understanding how structured documentation supports development in a team setting
 - First hands-on experience with mobile development and Firebase
 
 ---
 
-## 📊 GitHub Stats
+### 🧠 Wumpus World Game
 
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtyud5&show_icons=true)
+> AI simulation where users pick different solving algorithms to navigate a grid-based environment.
+
+**My Role:** Solo algorithmic project.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
+
+**What I learned:**
+- Implementing AI-based environment simulation with multiple algorithm options
+- Applying logic-based problem solving in a game interaction context
+- Building interactive visualizations with Pygame
 
 ---
 
-## 📬 Contact
+### 🚗 Rush Hour — Traffic Jam Solver
+
+> Puzzle-solving game where users select an algorithm and the system generates a step-by-step solution path.
+
+**My Role:** Solo algorithmic project.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
+
+**What I learned:**
+- Applying state-space search algorithms to a real puzzle problem
+- Visualizing algorithm behavior step-by-step for better understanding
+- Comparing algorithm performance across different puzzle configurations
+
+---
+
+## 📊 GitHub Stats
+
+[![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtyud5&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+> ⚠️ Stats may occasionally not load due to rate limits on the public API. If blank, try refreshing — or visit [my GitHub profile](https://github.com/rtyud5) directly.
+
+---
+
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-truongduy635@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:truongduy635@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ntd5-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntd5)

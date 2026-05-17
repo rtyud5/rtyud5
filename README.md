@@ -156,8 +156,7 @@
 
 ## 📊 GitHub Stats
 
-[![Duy's GitHub stats](https://github-stat-card-7jwmeq6xe-rtyud5s-projects.vercel.app/api/stats)]
-
+[![GitHub Stats](https://github-stat-card-mauve.vercel.app/api/stats)](https://github.com/rtyud5)
 ---
 
 ## Contact

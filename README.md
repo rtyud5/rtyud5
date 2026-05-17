@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![GitHub Stats](https://github-stat-card-mauve.vercel.app/api/stats)](https://github.com/rtyud5)
 

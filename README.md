@@ -56,6 +56,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-stat-card-mauve.vercel.app/api/stats)](https://github.com/rtyud5)
+
+---
+
 ## Featured Projects
 
 ### DormStay — Dormitory Booking System
@@ -152,11 +158,6 @@
 - Building demo UIs as a foundation before full Pygame graphics integration
 - Translating algorithmic logic into interactive, visual game experiences
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-stat-card-mauve.vercel.app/api/stats)](https://github.com/rtyud5)
 ---
 
 ## Contact

@@ -156,9 +156,7 @@
 
 ## 📊 GitHub Stats
 
-[![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtyud5&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-> ⚠️ Stats may occasionally not load due to rate limits on the public API. If blank, try refreshing — or visit [my GitHub profile](https://github.com/rtyud5) directly.
+[![Duy's GitHub stats](https://github-stat-card-7jwmeq6xe-rtyud5s-projects.vercel.app/api/stats)]
 
 ---
 
